@@ -1,2 +1,2 @@
-# curd de ejemplo para docencia
+# crud de ejemplo para docencia
 
