@@ -1,2 +1,2 @@
-# curd de ejemplo -chiguayante@
+# curd de ejemplo para docencia
 
